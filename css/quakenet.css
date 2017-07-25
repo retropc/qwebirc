@@ -1,0 +1,13 @@
+.qwebirc-loginbox .bar {
+  background: url(../images/logo.png) 0 -68px repeat-x;
+  border: none;
+}
+ 
+.qwebirc-loginbox .bar-background {
+  background: url(../images/logo.png) 0 -76px repeat-x;
+}
+ 
+.qwebirc-loginbox .bar-logo {
+  background: url(../images/logo.png);
+  _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/logo.png',sizingMethod='crop');
+}
